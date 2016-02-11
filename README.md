@@ -15,6 +15,8 @@ These instructions are for creating an iOS app with a Facebook login using Xcode
 Start Xcode and create a new project via File -> New -> Project
 ![Step 1 Screenshot](tutorial_ss/step_1.png "Step 1")
 ![Step 1 Screenshot](tutorial_ss/step_1.1.png "Step 1")
+![Step 1 Screenshot](tutorial_ss/step_1.2.png "Step 1")
+[Step 1 Screenshot](tutorial_ss/step_1.3.png "Step 1")
 
 
 ### Tutorial Links:
